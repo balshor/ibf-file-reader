@@ -1,0 +1,3 @@
+*.ibf
+/dist/
+/node_modules/
