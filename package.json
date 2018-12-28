@@ -1,6 +1,6 @@
 {
   "name": "ibf-file-reader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ibf-file-reader",
   "main": "src/LogRecord/LogRecordParser",
   "scripts": {
