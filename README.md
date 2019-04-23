@@ -1,4 +1,4 @@
-ibf-file-reader
+# ibf-file-reader
 
 This project is a Javascript re-implementation of [JOmnipod](https://github.com/tias79/jomnipod), licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
